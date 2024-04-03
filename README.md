@@ -25,7 +25,7 @@
 
 - Apple의 보안 정책 상 .ipa 파일을 통한 설치는 불가능합니다. 아래 제공된 링크를 통해 **TestFlight를 사용하여 테스트를 진행하실 수 있습니다.**
 - **iOS 16.0+에서만** 설치 및 실행이 가능합니다.
-TestFlight 베타테스터 링크: https://testflight.apple.com/join/37zPS6m9
+~TestFlight 베타테스터 링크: https://testflight.apple.com/join/37zPS6m9~ (현재 지원하지 않는 링크입니다.)
 1. App Store에서 TestFlight를 다운로드 받습니다.
 2. 제공된 링크에 접속하여 MAKS.앱을 다운로드합니다.
 3. 테스트를 진행하시면 됩니다.
